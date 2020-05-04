@@ -1,4 +1,4 @@
-# Preempted Single Machine Scheduling Problem
+# Exact Algorithm for the Preempted Single Machine Scheduling Problem
 
 ## Introduction
 
