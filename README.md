@@ -29,7 +29,7 @@ During our experiment, we reduce the problem to a Linear Assignment Problem (LAP
 | J_{3,1} | - | - | 0 | 0  | 0  | 0  | -  |
 | J_{3,2} | - | - | - | 10 | 20 | 30 | 40 |
 
-And we find that the best solution is this sequence:
+And we find that the best solution (which minimizes the cost) is this sequence:
 - J_{1,1}
 - J_{2,1}
 - J_{2,2}
